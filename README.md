@@ -42,28 +42,6 @@
 
 A full-stack application with Go backend, Svelte frontend, and PostgreSQL database. Implements JWT authentication and book CRUD operations.
 
-▶ **High-performance API in Go**  
-- Built with Goroutines for concurrent request handling  
-- Integrated with PostgreSQL using pgx driver  
-- Implemented JWT authentication middleware  
-- Dockerized deployment with auto-schema migration (`init.sql`)  
-
-▶ **Modern Frontend with Svelte**  
-- Reactive UI with Svelte stores  
-- Tailwind CSS for responsive design  
-- JWT token management in localStorage  
-
-## 🚀 Key Features
-- **Secure Authentication**  
-  - JWT-based login/register with password hashing  
-  - Protected API routes with middleware  
-- **Efficient Data Handling**  
-  - Concurrent database operations with Go routines  
-  - Prepared statements for SQL injection prevention  
-- **Developer-Friendly**  
-  - Single-command setup with `docker-compose up`  
-  - Auto-generated database schema on startup  
-
 ---
 
 ## 💡 Golang Expertise
