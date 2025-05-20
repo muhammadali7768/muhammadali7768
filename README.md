@@ -73,13 +73,13 @@ A full-stack application with Go backend, Svelte frontend, and PostgreSQL databa
 - Distributed systems with Go  
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadali7768&show_icons=true&theme=radical&hide=issues)](https://github.com/muhammadali7768)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali7768&layout=compact&theme=radical&hide=html,css)](https://github.com/muhammadali7768)
-
+-->
 ---
 
 ## 📫 Let's Connect!
