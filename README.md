@@ -34,6 +34,17 @@
 
 ## 🏗️ Go Projects
 
+### [TokenFlow: Blockchain Platform (Go & Go-Ethereum)] (https://github.com/muhammadali7768/tokenflow)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Go-Fiber](https://img.shields.io/badge/Go--Fiber-00ADD8?logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+A decentralized platform built with Go and Go-Ethereum for managing ERC20 tokens and Ether transfers with role-based access control.
+
 ### [Go-Svelte-Auth Book CRUD](https://github.com/muhammadali7768/go-svelte-auth)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
