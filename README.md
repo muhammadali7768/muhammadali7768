@@ -33,7 +33,19 @@
 ---
 
 ## 🏗️ Go Projects
+### [Simple-Bank: Backend Master](https://github.com/muhammadali7768/simplebank)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
+Built alongside [Udemy's Backend Master Class](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/),
+A production-ready banking API built with:
+- **JWT/PASETO** dual authentication
+- **SQLC** for type-safe database operations
+- **Testify/gomock** for 92% test coverage
+- **AWS EKS** deployment with Terraform
+- **CI/CD** with github Actions
+  
 ### [TokenFlow: Blockchain Platform (Go & Go-Ethereum)](https://github.com/muhammadali7768/tokenflow)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
