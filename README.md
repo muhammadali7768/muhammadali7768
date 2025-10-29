@@ -11,26 +11,30 @@
 
 ## 🔧 Technical Skills
 
-**Backend**  
+**Blockchain Development**  
+![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E5BFF?logo=cosmos&logoColor=white)
+![IBC Protocol](https://img.shields.io/badge/IBC_Protocol-9C2BE6?logo=blockchaindotcom&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3C3C3D?logo=ethereum&logoColor=white)
+![Tendermint](https://img.shields.io/badge/Tendermint-00BB00?logo=tensorflow&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?logo=keybase&logoColor=white)
+
+**Backend Engineering**  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-FF6C37?logo=json&logoColor=white)
 
-**Frontend**  
+**Web3 & dApp Tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)
+![Keplr Wallet](https://img.shields.io/badge/Keplr_Wallet-7B3FE4?logo=cosmos&logoColor=white)
+![Hermes Relayer](https://img.shields.io/badge/Hermes-00D8FF?logo=ibm&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-
-**DevOps & Tools**  
+**Infrastructure & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ---
 
 ## 🏗️ Go Projects
