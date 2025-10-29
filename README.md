@@ -34,6 +34,25 @@
 ---
 
 ## 🏗️ Go Projects
+
+### [Cross-Chain Stablecoin + Payments (Cosmos SDK + IBC)](https://github.com/muhammadali7768/cosmos-cross-chain)
+![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E5BFF?style=for-the-badge&logo=cosmos&logoColor=white)
+![IBC Protocol](https://img.shields.io/badge/IBC_Protocol-9C2BE6?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ignite CLI](https://img.shields.io/badge/Ignite_CLI-FF6B00?style=for-the-badge&logo=firebase&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes_Relayer-00D8FF?style=for-the-badge&logo=ibm&logoColor=white)
+
+This project is a **production-ready cross-chain dApp** built with Cosmos SDK, featuring two interconnected blockchains with IBC communication.
+
+**🚀 Key Features:**
+- **Chain A (Stablecoin Chain)** - Collateralized stablecoin minting with vault system
+- **Chain B (Merchant Chain)** - Merchant registry & cross-chain payment processing  
+- **IBC Integration** - Real-time cross-chain asset transfers using Hermes relayer
+- **Custom Modules** - Built in Go with Cosmos SDK best practicesta.  
+- Users send `uUSD` across IBC and pay merchants.  
+- Payment history & receipts stored on-chain.
+
+  
 ### [Simple-Bank: Backend Master](https://github.com/muhammadali7768/simplebank)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
